@@ -6,7 +6,7 @@ body{
     font-style: inherit;
     color: rgb(0, 26, 255);
     font-family: 'MuseoModerno', cursive;
-    font-size: 50px;
+    font-size: 17px;
 }
 .Lobby{
 background-color: rgb(0, 4, 255);
@@ -37,17 +37,6 @@ ul{
    
 
 
-}
-@keyframes slidein {
-    from {
-      margin-left: 100%;
-      width: 300%;
-    }
-  
-    to {
-      margin-left: 0%;
-      width: 100%;
-    }
   }
  .Botón{
      width: 250px;
@@ -65,7 +54,7 @@ ul{
 .Info{ 
 background-color: rgb(255, 255, 255);
 margin: 50px;
-font-size: 20px;
+font-size: 17px;
 text-align: center;
 padding: 50px;
 ;
@@ -80,7 +69,7 @@ padding: 50px;
 .requisitos{
     background-color: rgb(252, 252, 252);
     margin: 50px;
-    font-size: 30px;
+    font-size: 17px;
     text-align: center;
     padding: 50px 50px 50px 50px
     ;
